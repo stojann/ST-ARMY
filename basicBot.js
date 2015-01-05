@@ -173,7 +173,7 @@
         return m;
     };
 
-    var botCreator = "Matthew aka. Yemasthui";
+    var botCreator = "Al_St0janN";
     var botCreatorIDs = [];
 
     var basicBot = {
@@ -191,7 +191,7 @@
         settings: {
             botName: "ST ARMY bot by: Al_St0janN",
             language: "serbian",
-            chatLink: "https://rawgit.com/Yemasthui/basicBot/master/lang/en.json",
+            chatLink: "https://raw.githubusercontent.com/stojann/ST-ARMY/master/lang/sr",
             maximumAfk: 60,
             afkRemoval: true,
             maximumDc: 60,
