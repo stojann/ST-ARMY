@@ -181,7 +181,7 @@
         status: false,
         name: "ST ARMY bot by: Al_St0janN",
         loggedInID: null,
-        scriptLink: "",
+        scriptLink: "https://raw.githubusercontent.com/stojann/ST-ARMY/master/basicBot.js",
         cmdLink: "http://git.io/245Ppg",
         chatLink: "https://raw.githubusercontent.com/stojann/ST-ARMY/master/lang/sr",
         chat: null,
