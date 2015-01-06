@@ -104,7 +104,7 @@
     "motdset": "/me MotD set to:  %%MSG%%",
     "motdintervalset": "/me MotD interval set to %%INTERVAL%%.",
     "addbotwaitlist": "/me @%%NAME%%, ne pokusavaj da me dodas u WaitListu, molim.",
-    "move": "/me " [%%NAME%% je iskoristio move.] ",
+    "move": "/me "%%NAME%% je iskoristio move.",
     "mutednotime": "/me [@%%NAME%%] je mute-ovao @%%USERNAME%%.",
     "mutedmaxtime": "/me [@%%NAME%%] Mozes jedino mute-ovati na %%TIME%% minuta.",
     "mutedtime": "/me [@%%NAME%%] je mute-ovao/la @%%USERNAME%% na %%TIME%% minuta.",
